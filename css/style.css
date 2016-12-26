@@ -1,0 +1,61 @@
+
+
+.black {background-color:#262626;}
+
+.orange{background-color:#ffe6cc;}
+
+table {text-align: center;}
+
+
+
+
+p,h1,h2,h3{text-align: center;}
+
+h1 {
+
+font-family:"標楷體";
+
+font-size:100px;
+
+color:white;
+
+}
+
+h2 {
+
+font-family:"標楷體";
+
+font-size:30px;
+
+}
+
+h3 {
+
+font-family:"標楷體";
+
+font-size:30px;
+
+}
+
+p {
+
+line-height: 1.8;
+
+font-family:"微軟正黑體";
+
+font-size:25px;
+
+}
+
+.nav {margin:0;padding:0;list-style: none;text-align: center;font-size:30px;}
+
+.nav li {display:inline;margin:0;}
+
+.nav a{text-decoration: none;}
+
+.nav a:link{color:black;}
+
+.nav a:visited{color:black;}
+
+
+
